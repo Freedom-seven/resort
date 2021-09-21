@@ -42,7 +42,7 @@ export default function RoomsFilter({ rooms }) {
   });
   return (
     <section className="filter-container">
-      <Title title="seacrch rooms" />
+      <Title title="search rooms" />
       <form className="filter-form">
         {/*select type */}
         <div className="form-group">
